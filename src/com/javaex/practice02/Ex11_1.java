@@ -23,7 +23,7 @@ public class Ex11_1 {
 				break;
 			}
 			
-            default :  {
+        default :  {
 				System.out.println("자음입니다.");
 				break;
 			}
